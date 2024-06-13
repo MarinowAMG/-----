@@ -1,0 +1,7 @@
+C:\Users\Мартин\Desktop\Себестойност\Себестойност\bin\Debug\Себестойност.exe.config
+C:\Users\Мартин\Desktop\Себестойност\Себестойност\bin\Debug\Себестойност.exe
+C:\Users\Мартин\Desktop\Себестойност\Себестойност\bin\Debug\Себестойност.pdb
+C:\Users\Мартин\Desktop\Себестойност\Себестойност\obj\Debug\Себестойност.csproj.AssemblyReference.cache
+C:\Users\Мартин\Desktop\Себестойност\Себестойност\obj\Debug\Себестойност.csproj.CoreCompileInputs.cache
+C:\Users\Мартин\Desktop\Себестойност\Себестойност\obj\Debug\Себестойност.exe
+C:\Users\Мартин\Desktop\Себестойност\Себестойност\obj\Debug\Себестойност.pdb
